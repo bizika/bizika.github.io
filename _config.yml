@@ -1,1 +1,6 @@
 theme: jekyll-theme-merlot
+
+deploy:
+  type: git
+  repo: https://github.com/bizika/bizika.github.io
+  branch: master
